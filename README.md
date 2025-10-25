@@ -79,6 +79,29 @@ A magical dueling game where words become spells and language is your weapon! Tw
 - Pay attention to the Mad God's judgments to understand what it values
 - Use timing and strategy when casting your spells
 
+## Example Spells
+
+### Elements
+- Attack: "Ice shard tornado"
+- Defense: "Fire barrier"
+
+### Summons
+- Attack: "Dragon breath"
+- Defense: "Phoenix rebirth"
+
+### Materials & Force
+- Attack: "Steel needle rain"
+- Defense: "Magnetic field"
+
+### Technology
+- Attack: "Virus swarm"
+- Defense: "Firewall shield"
+
+### Abstract Concepts
+- Attack: "Market crash"
+- Defense: "Golden hedge"
+
+
 ## License
 
 This project is under MIT License. See [LICENSE](LICENSE) for more details.
