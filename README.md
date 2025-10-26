@@ -1,5 +1,7 @@
 # 🔮 Logomachy
 
+> *From Ancient Greek: logos (λόγος) "word" + machē (μάχη) "battle"*
+
 A magical dueling game where words become spells and language is your weapon! Two wizards face off in a battle of wit and wordcraft, with their spells judged by the mysterious Mad God of Magic.
 
 ## 🌟 Features
